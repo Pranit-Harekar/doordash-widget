@@ -1,4 +1,3 @@
-'use client'
 import { BagTimelineIcon, DoordashIcon, DoorDashTimelineIcon, HomeTimelineIcon } from './icons'
 
 export default function Home() {

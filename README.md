@@ -1,3 +1,9 @@
+## Doordash Widget Concept
+
+<img width="921" alt="Screenshot 2023-12-30 at 8 36 08 PM" src="https://github.com/Pranit-Harekar/doordash-widget/assets/17886017/b30b3f5d-546a-48f4-9adc-e196de802a2b">
+
+[![Edit Pranit-Harekar/doordash-widget/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/Pranit-Harekar/doordash-widget/main?embed=1&file=%2Fapp%2Fpage.tsx)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +38,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Credits
+
+https://dribbble.com/shots/23298208-Doordash-Widget-Design-Concept
